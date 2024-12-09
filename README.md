@@ -13,7 +13,7 @@ Task 3:
 -------
 OpenAPI Specification file can be found in the openAPISpecification.yml file
 
-NeuralNetwork/RAG/LLM:
+NeuralNetwork/RAG/LLM Tasks:
 =======
 Task 1:
 -------
@@ -26,4 +26,10 @@ Task 2:
 ---------
 The Workflow of the RAG-Application can be found in the RAG-Workflow.pdf
 
+Task 3/4:
+-------
+I am very very sorry but due to some university deadlines and my planned vacation starting at 10.12.2024 i have to let the last two tasks empty :(
 
+Summary:
+=======
+My strengths lie primarily in software development, where I have solid experience and understanding. In the Neural Network (NN) and LLM domains, I have hands-on experience but less theoretical depth.
