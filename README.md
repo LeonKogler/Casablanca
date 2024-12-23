@@ -53,7 +53,10 @@ Task 4:
 --------
 1. Scaling Laws for Neural Language Models: https://arxiv.org/pdf/2001.08361 
 2. GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models: https://arxiv.org/pdf/2410.05229
-3. 
+3. See What LLMs Cannot Answer: A Self-Challenge Framework for Uncovering LLM Weaknesses: https://arxiv.org/pdf/2408.08978
+4. Hallucination is Inevitable: An Innate Limitation of Large Language Models: https://arxiv.org/pdf/2401.11817
+5. The Problems of LLM-generated Data in Social Science Research: https://sociologica.unibo.it/article/view/19576/18669
+
 Summary:
-=======
-My strengths lie primarily in software development, where I have solid experience and understanding. In the Neural Network (NN) and LLM domains, I have hands-on experience but less theoretical depth.
+========
+My strengths lie primarily in software development, where I have solid experience and understanding. In the Neural Network and LLM domains, I have hands-on experience but less theoretical depth.
